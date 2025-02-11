@@ -26,7 +26,7 @@ Please be aware that every department has its own workflows, such as:\
 ### Duration:
 7 Days
 ### Languages:
-Laravel, MySQL, HTML, JavaScript, CSS\
+Laravel, MySQL, HTML, JavaScript, CSS
 ### Repository:
 Demo source code need to be put in Git repository
 </details>
@@ -37,6 +37,9 @@ ________________________________________________________________________________
 ```bash
   Composer
   Mysql
+  php
+  extension=fileinfo in php.ini
+  extension=pdomysql in php.ini
 ```
 Install dependencies:
 
