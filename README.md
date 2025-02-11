@@ -62,6 +62,11 @@ Start the server:
 ```bash
   php artisan serve
 ```
+Enter by using link below:
+http://127.0.0.1:8000/home
+
+http://127.0.0.1:8000 will only show an incompleted|unlinked UI I had in mind to add the Backend later If I were to finish this project
+
 Login Presets:
 ```text
 admin@gmail.com | 123456
